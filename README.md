@@ -14,4 +14,4 @@
 | [**CPP_Modules**](https://github.com/eeeyyeeezz/CPP_Modules) |`C++` `OOP` | 28.09.2021
 | [**Inception**](https://github.com/eeeyyeeezz/Inception) |`docker` `docker-compose` | 20.12.2021
 
-*Все проекты, за исключением netwhat/ft_server/ft_services и, включая CPP_Modules и все, что идет после них, написаны на языке С без использования сторонних (только cub3d использует MiniLibX для отрисовки графики) библиотек и фреймворков*
+*Все проекты, за исключением netwhat/ft_server/ft_services/Inception и, включая CPP_Modules и все, что идет после них, написаны на языке С без использования сторонних (только cub3d использует MiniLibX для отрисовки графики) библиотек и фреймворков*
